@@ -1,4 +1,4 @@
-# Java - Estruturas de Dados 🧩
+# Java - java-estruturas-dados 🧩
 
 Projeto acadêmico de implementação de algoritmos e estruturas de dados em Java, abordando conceitos fundamentais para organização e manipulação eficiente de dados.
 
